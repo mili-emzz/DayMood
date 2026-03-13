@@ -33,7 +33,7 @@ export default function Hero() {
                         <h1 className="text-4xl lg:text-[3.25rem] font-bold text-black leading-[1] tracking-tight text-end mb-6">
                             Registra tus emociones de forma sencilla y diaria
                         </h1>
-                        <Button href="/download">
+                        <Button href="/info/download">
                             Comenzar ahora
                         </Button>
                     </div>

@@ -1,4 +1,5 @@
 import Image from 'next/image'
+import Link from 'next/link'
 
 export default function Footer() {
     return (
@@ -27,7 +28,9 @@ export default function Footer() {
 
                         <div className="flex flex-col text-black text-base lg:text-xl w-full sm:w-[45%] lg:w-[40%] pl-4 sm:pl-8">
                             <ul className="flex flex-col gap-2 md:gap-4 font-medium">
-                                <li className="cursor-pointer">Nuestro equipo</li>
+                                <li className="cursor-pointer hover:underline">
+                                    <Link href="/info/about">Nuestro equipo</Link>
+                                </li>
                                 <li className="cursor-pointer">Aviso de privacidad</li>
                                 <li className="cursor-pointer">Manual de Usuario</li>
                             </ul>
