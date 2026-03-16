@@ -24,13 +24,13 @@ export default function Download() {
                             Descarga la app y empieza a disfrutar de todos los beneficios que DayMood tiene para ti.
                         </h3>
                         <p className="text-base sm:text-lg md:text-xl text-gray-700">
-                            ¡Recuerda! Esta app no sustituye el acompañamiento de un profesional
+                            ¡Recuerda! Esta app no sustituye el acompañamiento de un profesional. <a href="/info/terms" className="text-blue-500 hover:underline">Lee términos y condiciones.</a>
                         </p>
                     </main>
                 </div>
                 <div className="mt-12 md:mt-16">
-                    <Button href="#" className="text-lg sm:text-xl md:text-2xl md:px-16 md:py-8">
-                        Descargar
+                    <Button href="/app-debug.apk" download="daymood.apk" className="text-lg sm:text-xl md:text-2xl md:px-16 md:py-8">
+                        Descargar APK
                     </Button>
                 </div>
             </div>
