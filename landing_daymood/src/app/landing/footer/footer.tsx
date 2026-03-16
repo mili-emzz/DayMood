@@ -22,7 +22,7 @@ export default function Footer() {
                                 DayMood
                             </p>
                             <p className="text-base lg:text-xl text-black leading-snug">
-                                Aplicación móvil para el registro y personalización de emociones
+                                Aplicación móvil sólo para android para el registro y personalización de emociones
                             </p>
                         </div>
 
