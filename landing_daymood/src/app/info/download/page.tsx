@@ -21,7 +21,7 @@ export default function Download() {
                         <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold mb-6">Descargar</h1>
                         <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold mb-6">Gracias por escoger DayMood</h2>
                         <h3 className="text-lg sm:text-xl md:text-2xl font-bold max-w-2xl mb-8">
-                            Descarga la app y empieza a disfrutar de todos los beneficios que DayMood tiene para ti.
+                            Descargar la app para Android y empieza a disfrutar de todos los beneficios que DayMood tiene para ti.
                         </h3>
                         <p className="text-base sm:text-lg md:text-xl text-gray-700">
                             ¡Recuerda! Esta app no sustituye el acompañamiento de un profesional. <a href="/info/terms" className="text-blue-500 hover:underline">Lee términos y condiciones.</a>
