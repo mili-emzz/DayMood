@@ -29,9 +29,9 @@ export default function Download() {
                     </main>
                 </div>
                 <div className="mt-12 md:mt-16">
-                    <Button href="/app-debug.apk" download="daymood.apk" className="text-lg sm:text-xl md:text-2xl md:px-16 md:py-8">
+                    <Button href="/Daymood_V1.1.apk" download="daymood.apk" className="text-lg sm:text-xl md:text-2xl md:px-16 md:py-8">
                         Descargar APK
-                    </Button>
+                    </Button>1
                 </div>
             </div>
         </div>
