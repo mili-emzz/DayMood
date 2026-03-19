@@ -29,7 +29,7 @@ export default function Download() {
                     </main>
                 </div>
                 <div className="mt-12 md:mt-16">
-                    <Button href="/Daymood_V1.5.apk" download="daymood.apk" className="text-lg sm:text-xl md:text-2xl md:px-16 md:py-8">
+                    <Button href="/daymood_V1_8.apk" download="daymood_V1_8.apk" className="text-lg sm:text-xl md:text-2xl md:px-16 md:py-8">
                         Descargar APK
                     </Button>1
                 </div>
