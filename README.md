@@ -1,7 +1,7 @@
-# You can upload Daymood here! 
+# 💫 You can upload Daymood here! 
 https://day-mood.vercel.app/
 
-# DayMood - Mobile Frontend
+# DayMood - Mobile App for Android 🎈
 
 ## Description
 
